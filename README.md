@@ -1,4 +1,6 @@
-Sales Analysis
+**Sales Analysis**
+
+
 This project performs an in-depth analysis of e-commerce sales data, focusing on data quality, comprehensive exploratory data analysis (EDA), visualization, and applying a statistical model (Simple Linear Regression) to test a specific economic hypothesis.
 Project Goals
 Data Clean-up and Detailed EDA: Validate data quality, handle missing values, and generate detailed descriptive statistics using Pandas and NumPy.
